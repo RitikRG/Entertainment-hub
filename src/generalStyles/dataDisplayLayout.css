@@ -1,0 +1,5 @@
+.dataDisplayLayout{
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 10px;
+}
